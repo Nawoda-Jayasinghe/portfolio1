@@ -8,3 +8,4 @@ export default defineConfig({
   build: { sourcemap: false },
   base: "/portfolio1/",
 });
+//check
